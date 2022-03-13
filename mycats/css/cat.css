@@ -1,0 +1,13 @@
+body {
+    position: relative;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url(../assets/img/background1.jpg);
+    background-size:cover;
+}
+
+header, img{
+    display: flex;
+    justify-content: space-between;
+    border: 4px solid white;
+}
